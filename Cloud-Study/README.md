@@ -1,0 +1,3 @@
+We decided to name our project Cloud Study for our flashcard application. For this prototype assignment we created and linked 8 screens which is more then half of the 12 screens for the final application. 
+
+We created our login/register option screen, login screen, register screen,home screen, active deck screen, past decks screen, create deck screen and settings logout screen. All screens are accessible through buttons, but not real logic is working and the user interface is being worked on still.
